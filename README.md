@@ -1,5 +1,3 @@
-# Digital_Twin_of_Tartu
+# Creation of Digital Twin for Tartu
 
-Test 1
-
-Test 2
+Here are all the scripts used in the creation of Digital Twin for Tartu.
